@@ -18,3 +18,9 @@ Correlation Analysis: Determine if there are any correlations between different 
 Hypothesis Testing: If you have specific hypotheses you want to test, you can use statistical tests within Excel. For example, you can perform a t-test or chi-square test to determine if there are significant differences in accident rates between different groups or categories.
 
 Conclusion and Reporting: Summarize your findings and draw conclusions based on the analysis. Create a report or presentation in Excel to present your results, including charts, tables, and any significant findings. Clearly communicate your analysis and provide actionable insights to improve road safety or address specific concerns related to road accidents.
+
+
+#demo video
+
+Uploading Microsoft Excel (Trial) - Road Accident dashboard 2023-07-02 21-00-29.mp4…
+
