@@ -1,6 +1,11 @@
 # road_accident_excel
 Data Collection: Collect the road accident data you want to analyze. This data can be obtained from various sources, such as government agencies, police departments, or research organizations. Make sure the data includes relevant information such as date, time, location, weather conditions, type of accident, and any other variables you want to analyze.
 
+<h1>Dataset</h1>
+https://drive.google.com/drive/folders/1pgTspqFEgbKrTD1khuYjiMjI3HPSEj0Z?usp=drive_link
+
+<h1>Details</h1>
+
 Data Cleaning: Open Excel and import the collected data into a new worksheet. Review the data for any errors, missing values, or inconsistencies. Clean the data by removing duplicates, correcting errors, and filling in missing values. Ensure that each column represents a specific variable and that the data is organized properly.
 
 Data Formatting: Format the data appropriately. Assign proper data types to each column, such as date/time, numeric, or text. This will help Excel recognize and analyze the data accurately.
